@@ -1,0 +1,28 @@
+.processadores {
+	display: flex;
+  	align-items: center;
+ 	justify-content: center;
+ 	flex-direction: column;
+ 	flex-direction: row;
+}
+
+body {
+	background-color: black;
+	text-align: center;
+}
+
+h1{
+	color: white;
+}
+
+.processador {
+	background-color: #D6D6D6;
+	margin: 2%;
+	padding: 2%;
+	border-radius: 20px;
+}
+
+img {
+	max-width: 300px;
+	min-height: 120px;
+}
